@@ -1,0 +1,13 @@
+<ion-grid id="infoBar">
+  <ion-row>
+    <ion-col class="alignLeft">Hi {{username}}</ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col class="alignCenter noPadding">{{type}} of the session:</ion-col>
+  </ion-row>
+  <ion-row>
+    <ion-col class="alignLeft noPadding"><i class="fa fa-times fa-2x" style="color: white" (click)="terminateSession();"></i></ion-col>
+    <ion-col id="session_id" class="alignCenter"><span>{{session_id}}</span><i (click)="copySessionId();" class="fa fa-clone fa-1x" style="color: white"></i></ion-col>
+    <ion-col class="alignRight noPadding">{{userCount}}<i class="fa fa-users fa-2x" style="color: white"></i></ion-col>
+  </ion-row>
+</ion-grid>

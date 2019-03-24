@@ -1,0 +1,21 @@
+<ion-content class="background" overflow-scroll="true">
+    <ion-card>
+      <ion-card-header>
+        <b>MeetMeHere</b>
+      </ion-card-header>
+      <ion-card-content>
+        <ion-item>
+          <ion-label fixed><ion-icon name="contact"></ion-icon></ion-label>
+          <ion-input type="text" placeholder="Username" [value]=username [(ngModel)]="credentials.username"></ion-input>
+        </ion-item> 
+        <ion-item>
+          <ion-label fixed><ion-icon name="lock"></ion-icon></ion-label>
+          <ion-input type="password" placeholder="Password" [value]=password [(ngModel)]="credentials.password"></ion-input>
+        </ion-item> 
+        <button ion-button block large (click)='login();'>Login</button>
+        <br/>
+        <br/>
+        <a (click)="register();">Don't have an account? <b>Register</b></a>
+      </ion-card-content>
+    </ion-card>
+  </ion-content>

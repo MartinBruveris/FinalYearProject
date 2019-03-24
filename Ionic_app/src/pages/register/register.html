@@ -1,0 +1,38 @@
+<ion-header>
+    <ion-navbar color = "primary">
+      <ion-title>Registration Form</ion-title>
+    </ion-navbar>
+  </ion-header>
+
+<ion-content>
+          <ion-grid>
+          <ion-row>
+            <ion-col>
+              <ion-list no-line>
+              <ion-item>
+                  <ion-label fixed><ion-icon name="contact"></ion-icon></ion-label>
+                  <ion-input type="text" placeholder="Username" [value]=username [(ngModel)]="registrationDetails.username" clearInput="true" (keydown)="filterInput($event);"></ion-input>
+              </ion-item>
+              <ion-item>
+                <ion-label fixed><ion-icon name="lock"></ion-icon></ion-label>
+                <ion-input type="password" placeholder="Password" [value]=password [(ngModel)]="registrationDetails.password" clearInput="true" (keydown)="filterInput($event);"></ion-input>
+              </ion-item> 
+              <ion-item>
+                <ion-label fixed><ion-icon name="lock"></ion-icon></ion-label>
+                <ion-input type="password" placeholder="Password Confirmation" [value]=confirmPassword [(ngModel)]="registrationDetails.confirmPassword" clearInput="true" (keydown)="filterInput($event);"></ion-input>
+              </ion-item> 
+               <ion-item>
+                <ion-label fixed><ion-icon name="at"></ion-icon></ion-label>
+                <ion-input type="email" placeholder="Email" [value]=email [(ngModel)]="registrationDetails.email"  clearInput="true" (keydown)="filterEmailInput($event);"></ion-input>
+              </ion-item> 
+               <ion-item>
+                <ion-label fixed><ion-icon name="at"></ion-icon></ion-label>
+                <ion-input type="email" placeholder="Email Confirmation" [value]=confirmEmail [(ngModel)]="registrationDetails.confirmEmail" clearInput="true" (keydown)="filterEmailInput($event);"></ion-input>
+              </ion-item>
+            </ion-list>
+            </ion-col>
+          </ion-row>
+          <br/>
+          <button ion-button block large (click)='submitRegistration();'>REGISTER</button>
+        </ion-grid>
+</ion-content>

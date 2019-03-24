@@ -1,0 +1,52 @@
+page-session-modal 
+{
+    #modalPopup 
+    {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+    }
+    ion-card-content
+    {
+        text-align: center !important;
+    }
+    ion-card-header
+    {
+        text-align: center !important; 
+        background-color: map-get($colors, primary);
+        color: map-get($colors, light) !important;
+    }
+    ion-label
+    {
+        text-align: center !important;
+    }
+    .row
+    {
+        margin-top: 60px !important;
+    }
+    #sessionIdTitle, b
+    {
+        font-size: 1.5em;
+    }
+    .button[icon-only]
+    {
+        width: 100% !important;
+        background-color: white !important;
+    }
+    #copyIcon:active 
+    {
+        color: map-get($colors, primary);
+    }
+    #copyIcon  
+    {
+        padding-left: 5%;
+    }
+    .fa
+    {
+        margin-right: 10%;
+    }
+    ion-icon
+    {
+        font-size: 1.6em;
+    }
+}

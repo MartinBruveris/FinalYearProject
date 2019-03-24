@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18aa12a9-374d-4717-8fd7-f7d4b40622b5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Django_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeetMeHere/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/MeetMeHere/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/src/pages/landing/landing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/src/pages/landing/landing.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/src/pages/register/register.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/src/pages/register/register.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/src/providers/alert/alert.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/src/providers/alert/alert.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ionic_app/src/providers/toast/toast.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Ionic_app/src/providers/toast/toast.ts" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="consumers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MeetMeHere/consumers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3978">
+              <caret line="237" column="18" selection-start-line="237" selection-start-column="18" selection-end-line="237" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exceptions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MeetMeHere/exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MeetMeHere/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3179">
+              <caret line="198" column="31" selection-start-line="198" selection-start-column="31" selection-end-line="198" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MeetMeHere/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MeetMeHere/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="94" column="58" selection-start-line="94" selection-start-column="58" selection-end-line="94" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MeetMeHere/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django_app/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="91" selection-start-line="91" selection-start-column="2" selection-end-line="91" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django_app/routing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>protocol</find>
+      <find>scope</find>
+      <find>type</find>
+      <find>socketTicket</find>
+      <find>len</find>
+      <find>seri</find>
+      <find>terminate</find>
+      <find>lon</find>
+      <find>upper</find>
+      <find>session_id</find>
+      <find>.upper()</find>
+      <find>key</find>
+      <find>close</find>
+      <find>discard</find>
+      <find>was inter</find>
+      <find>point</find>
+      <find>Point</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lng</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MeetMeHere/rest_url.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/routing.py" />
+        <option value="$PROJECT_DIR$/Django_app/asgi.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/MeetMeHere/migrations/utils.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/serializers.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/rest_views.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/rest_urls.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/urls.py" />
+        <option value="$PROJECT_DIR$/Django_app/urls.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/models.py" />
+        <option value="$PROJECT_DIR$/Django_app/routing.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/exceptions.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/views.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/consumers.py" />
+        <option value="$PROJECT_DIR$/MeetMeHere/utils.py" />
+        <option value="$PROJECT_DIR$/Django_app/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="745" />
+    <option name="y" value="30" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Django_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_app" type="462c0819:PsiDirectoryNode" />
+              <item name="Django_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_app" type="462c0819:PsiDirectoryNode" />
+              <item name="MeetMeHere" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Python27" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Programms/nodejs/node" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Django_app" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django_app.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18aa12a9-374d-4717-8fd7-f7d4b40622b5" name="Default" comment="" />
+      <created>1516999802516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516999802516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5042965" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295838" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32789117" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295838" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295838" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.265625" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="manage.py@Django_app" order="15" sideWeight="0.49570355" visible="true" weight="0.3972789" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.3295838" />
+      <window_info anchor="bottom" id="REST Client" order="13" visible="true" weight="0.6006749" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Django_app/routing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_app/routing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" selection-start-line="104" selection-end-line="111" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="36" selection-start-line="117" selection-start-column="36" selection-end-line="117" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2414">
+          <caret line="142" column="41" selection-start-line="142" selection-start-column="41" selection-end-line="142" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_views.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_views.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_views.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_views.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/urls.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/routing.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/migrations/utils.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_views.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/rest_urls.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/serializers.py" />
+    <entry file="file://$PROJECT_DIR$/Django_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_app/routing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/consumers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="237" column="18" selection-start-line="237" selection-start-column="18" selection-end-line="237" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/MMH_venv/Lib/site-packages/channels/layers.py" />
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="94" column="58" selection-start-line="94" selection-start-column="58" selection-end-line="94" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="198" column="31" selection-start-line="198" selection-start-column="31" selection-end-line="198" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django_app/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="91" selection-start-line="91" selection-start-column="2" selection-end-line="91" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetMeHere/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

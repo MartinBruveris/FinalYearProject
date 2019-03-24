@@ -1,0 +1,56 @@
+page-login
+{
+  .background
+  {
+    background-image: url('../assets/imgs/bg_login.jpeg');
+    background-size: cover;
+  }
+
+  .scroll-content
+  {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  ion-card.card
+  {
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 5px;
+    overflow: auto;
+  }
+
+  .item
+  {
+    margin-bottom: 10px;
+    background: rgba(255, 255, 255, 0.8);
+  }
+
+  a,
+  ion-card-header.card-header
+  {
+    color: black;
+  }
+
+  ion-col
+  {
+    position: initial !important;
+  }
+
+  ion-label[fixed]
+  {
+    width: 20px;
+    min-width: 20px;
+    max-width: 30px;
+  }
+
+  // h1 
+  // {
+  // -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+  // -webkit-text-stroke-width: 1px;
+  // -webkit-text-stroke-color: white;
+  // font-size: 2em;
+  // }
+}

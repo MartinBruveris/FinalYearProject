@@ -1,0 +1,41 @@
+page-register 
+{
+    .scroll-content
+    {
+        align-content: center;
+        justify-content: center;
+        text-align: center;
+        // padding-bottom: 0 !important;
+        background: linear-gradient(#225d87, #ffffff);
+    }
+
+    .item
+    {
+        margin-bottom: 10px;
+        background: rgba(255, 255, 255, 1);
+    }
+
+    a,
+    ion-card-header.card-header
+    {
+        color: black;
+    }
+
+    .grid
+    {
+        width: 97%;
+        margin-top: 3%;
+    }
+
+    ion-col
+    {
+    position: initial !important;
+    }
+
+    ion-label[fixed]
+    {
+        width: 20px;
+        min-width: 20px;
+        max-width: 30px;
+    }
+}

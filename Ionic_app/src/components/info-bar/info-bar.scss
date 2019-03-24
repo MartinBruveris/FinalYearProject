@@ -1,0 +1,41 @@
+#infoBar
+{
+    display: none;
+    width: 100%;
+    background-color: map-get($colors, secondary);
+    color: map-get($colors, light);
+    z-index: 9999;
+    position: absolute;
+}
+
+.noPadding
+{
+    padding: 0;
+}
+
+.alignLeft
+{
+    text-align: left;
+}
+
+.alignRight
+{
+    text-align: right;
+}
+
+.alignCenter
+{
+    text-align: center;
+}
+
+#session_id
+{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.fa 
+{
+    padding-left: 5%;
+    padding-right: 5%;
+}

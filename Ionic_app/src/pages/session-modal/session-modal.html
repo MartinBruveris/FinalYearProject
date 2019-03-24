@@ -1,0 +1,23 @@
+<ion-card id="modalPopup">
+  <ion-card-header>
+    Share Your Session
+  </ion-card-header>
+  <ion-card-content>
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <ion-item>
+            <span id="sessionIdTitle">Session id: </span><b>{{session_id}}</b>
+            <ion-icon id="copyIcon" name="copy" (click)="copySessionCode();"></ion-icon>
+          </ion-item>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <button ion-button full large="true" (click)="share();"><i class="fa fa-share-alt fa-2x" style="color: white"></i> SHARE CODE</button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-card-content>
+</ion-card>
+
